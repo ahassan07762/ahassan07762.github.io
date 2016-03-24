@@ -3800,7 +3800,7 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: url(https://linziboyd.files.wordpress.com/2013/08/open-road.jpg);
+		background-image: url("https://linziboyd.files.wordpress.com/2013/08/open-road.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;

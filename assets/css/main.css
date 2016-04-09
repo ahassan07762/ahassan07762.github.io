@@ -1874,6 +1874,7 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		
 	}
 
 		.icon:before {
@@ -2387,6 +2388,8 @@
 		}
 
 			.features li:nth-child(1) {
+				
+				
 				background-color: rgba(0, 0, 0, 0.035);
 			}
 
@@ -2437,6 +2440,7 @@
 
 			.features li:nth-child(1) {
 				border-top-left-radius: 3px;
+
 			}
 
 			.features li:nth-child(2) {
@@ -2641,7 +2645,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #398199;
+			background-color: #374D70;
 			color: #c7ebe8;
 		}
 
@@ -2799,7 +2803,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #374D70;
 			color: #d3d4e4;
 		}
 
@@ -2948,6 +2952,7 @@
 
 				.wrapper.style3 .features li {
 					border-top-color: rgba(0, 0, 0, 0.125);
+
 				}
 
 			}

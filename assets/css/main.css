@@ -2398,7 +2398,7 @@
 
 			.features li:nth-child(2) {
 				background-color: rgba(245, 174, 109, 0.7);
-				color:lime;
+				
 			}
 
 			.features li:nth-child(3) {
@@ -2843,7 +2843,7 @@
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #FDFDFD;
 			}
 
 			.wrapper.style3 label {
@@ -3801,6 +3801,15 @@
 
 	body.landing #page-wrapper2 {
 		background-image: url("http://cdn1.theodysseyonline.com/files/2016/01/22/635890488496703863506088094_Image-1.jpg");
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 0;
+	}
+
+	body.landing #page-wrapper3 {
+		background-image: url("http://wallpapercave.com/wp/VWaEtYJ.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;

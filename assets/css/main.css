@@ -2435,7 +2435,7 @@
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #FCF8E3;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2650,7 +2650,7 @@
 
 		.wrapper.style1 {
 			
-			background-color: rgba(53, 155, 167, 0.9);
+			background-color: rgba(195, 99, 92, 0.8);
 			color: #c7ebe8;
 
 		}

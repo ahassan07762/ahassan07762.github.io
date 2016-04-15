@@ -1870,10 +1870,13 @@
 
 /* Icon */
 
+	
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+
 		
 	}
 
@@ -2647,7 +2650,7 @@
 
 		.wrapper.style1 {
 			
-			background-color: #374D70;
+			background-color: rgba(53, 155, 167, 0.9);
 			color: #c7ebe8;
 
 		}
@@ -3789,6 +3792,15 @@
 
 	body.landing #page-wrapper {
 		background-image: url("https://linziboyd.files.wordpress.com/2013/08/open-road.jpg");
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 0;
+	}
+
+	body.landing #page-wrapper2 {
+		background-image: url("http://cdn1.theodysseyonline.com/files/2016/01/22/635890488496703863506088094_Image-1.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
